@@ -1,0 +1,17 @@
+@import "https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Poppins:wght@200;300;500;600;700&display=swap";
+body {
+  background: #000;
+}
+
+#canvas1 {
+  width: 900px;
+  height: 600px;
+  background: #fff;
+  font-family: Orbitron, sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */

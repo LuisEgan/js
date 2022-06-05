@@ -1,0 +1,15 @@
+{
+  "name": "plantvszombies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "legan",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "yarn parcel index.html"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
